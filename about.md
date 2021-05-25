@@ -1,1 +1,0 @@
-I'm a developer playing with Angular and Python.
